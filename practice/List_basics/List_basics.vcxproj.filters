@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pair_basics.cpp">
+    <ClCompile Include="vector_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
